@@ -1,1 +1,1 @@
-# mjmlEmail
+# MJML Email Project
