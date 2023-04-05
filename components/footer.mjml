@@ -1,0 +1,43 @@
+<mj-wrapper css-class="footer" padding="0">
+    <mj-section padding="0">
+        <mj-group css-class="icons-size">
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://facebook.com/shopify" src="http://127.0.0.1:5500/images/fb.png" width="27px" height="27px" alt="facebook" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://twitter.com/shopify" src="http://127.0.0.1:5500/images/tw.png" width="27px" height="27px" alt="twitter" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://instagram.com/shopify" src="http://127.0.0.1:5500/images/insta.png" width="27px" height="27px" alt="instagram" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://snapchat.com/shopify" src="http://127.0.0.1:5500/images/snap.png" width="27px" height="27px" alt="snapchat" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://linkedin.com/shopify" src="http://127.0.0.1:5500/images/in.png" width="27px" height="27px" alt="linkedin" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://pinterest.com/shopify" src="http://127.0.0.1:5500/images/pin.png" width="27px" height="27px" alt="pinterest" />
+            </mj-column>
+            <mj-column padding="0">
+                <mj-image padding="0 5px" href="https://youtube.com/shopify" src="http://127.0.0.1:5500/images/yt.png" width="27px" height="27px" alt="youtube" />
+            </mj-column>
+        </mj-group>
+    </mj-section>
+
+    <mj-section padding="20px 0 0">
+        <mj-column padding="0">
+            <mj-text font-size="10px" align="center">
+                &copy; Shopify, 151 0'Conner Street, Ground floor, Ottawa ON, K2P 2L8
+            </mj-text>
+        </mj-column>
+    </mj-section>
+
+    <mj-section padding="0 0 60px">
+        <mj-column padding="0">
+            <mj-text font-size="10px" align="center">
+                <a href="#" class="footer-links">Unsubscribe</a> | <a href="#" class="footer-links">Manage Your Email Preferences</a>
+            </mj-text>
+        </mj-column>
+    </mj-section>
+</mj-wrapper>

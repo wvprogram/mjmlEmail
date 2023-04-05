@@ -1,0 +1,5 @@
+<mj-section background-color="#ffffff">
+    <mj-column>
+        <mj-image padding="0" src="http://127.0.0.1:5500/images/3-lines.png" />
+    </mj-column>
+</mj-section>
